@@ -1,6 +1,6 @@
 ---
-name: User story
-about: 'Template for creating user story''s '
+name: User story (final project)
+about: creating this template for final project
 title: ''
 labels: ''
 assignees: ''
